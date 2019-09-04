@@ -1,4 +1,6 @@
-public void Topla(int x, int y)
+public void Topla2(int x, int y)
 {
-    return x + y;
+    var sonuc = x + y;
+
+    return sonuc;
 }
